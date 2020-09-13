@@ -4,5 +4,5 @@
 -)--I have used graphic user interface for this program for easy access.
 
 -)--insatll the following packages:
-   1. pyqucode
+   1. pyqrcode
    2. tkinter (alredy installed with your python package)
