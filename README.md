@@ -1,8 +1,8 @@
 # Qrcode_generator
--)--this program generate Qr code based on the given url.
+-)--this program generate's Qrcode based on the given url.
 
--)--I have used graphic user interface for this program for easy access.
+-)--I have used graphical user interface for this program for easy access.
 
--)--insatll the following packages:
+-)--install the following packages:
    1. pyqrcode
    2. tkinter (alredy installed with your python package)
